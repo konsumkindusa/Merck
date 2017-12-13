@@ -6,6 +6,8 @@
         <members>CATApex2</members>
         <members>CATApex3</members>
         <members>ConflictTest</members>
+        <members>MerckApexClass1</members>
+        <members>MerckApexTest1</members>
         <members>SBAApexClass1</members>
         <members>SBAApexClass2</members>
         <members>SBAApexTest1</members>
