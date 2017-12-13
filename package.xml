@@ -651,8 +651,8 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>Object_A__c</members>
         <members>Object_B__c</members>
-        <members>Object_C__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -764,8 +764,8 @@
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
-        <members>Object_C__c-Object C Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -1059,5 +1059,13 @@
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>AR_Demo1__c.WF1_Field_Update</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>AR_Demo1__c.WF1</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
