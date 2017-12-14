@@ -2,16 +2,24 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
-        <members>ARApexClass</members>
-        <members>ARApexClass1</members>
-        <members>ARApexClass2</members>
-        <members>ConflictTest</members>
-        <members>SBAApex1</members>
-        <members>SBAApex2</members>
-        <members>SBAApex3</members>
-        <members>SBAApexTest1</members>
-        <members>SBAApexTest2</members>
-        <members>TAFApexClass</members>
+        <members>ARDemo1</members>
+        <members>AR_Deploycls</members>
+        <members>AR_Deploycls_Test</members>
+        <members>AlignTechApex1</members>
+        <members>AlignTechApexTest1</members>
+        <members>AutoRBT</members>
+        <members>AlignTechApex1</members>
+        <members>AlignTechApexTest1</members>
+        <members>CATApex1</members>
+        <members>CATApex2</members>
+        <members>CATApex3</members>
+        <members>CATApexTest1</members>
+        <members>CATApexTest2</members>
+        <members>CATApexTest3</members>
+        <members>MerckApexClass1</members>
+        <members>MerckApexTest1</members>
+        <members>SBAApex2017</members>
+        <members>SuntrustApex1</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -654,6 +662,8 @@
         <members>Object_A__c</members>
         <members>Object_B__c</members>
         <members>Object_C__c</members>
+        <members>Object_D__c</members>
+        <members>Object_Y__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -769,6 +779,8 @@
         <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
         <members>Object_C__c-Object C Layout</members>
+        <members>Object_D__c-Object D Layout</members>
+        <members>Object_Y__c-Object Y Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -1063,5 +1075,13 @@
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>AR_Demo1__c.WF1_Field_Update</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>AR_Demo1__c.WF1</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
