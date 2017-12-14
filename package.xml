@@ -9,18 +9,13 @@
         <members>CATApex1</members>
         <members>CATApex2</members>
         <members>CATApex3</members>
-        <members>ConflictTest</members>
+        <members>CATApexTest1</members>
+        <members>CATApexTest2</members>
+        <members>CATApexTest3</members>
         <members>MerckApexClass1</members>
         <members>MerckApexTest1</members>
-        <members>SBAApexClass1</members>
-        <members>SBAApexClass2</members>
-        <members>SBAApexTest1</members>
-        <members>SBAApexTest2</members>
-        <members>SlalomApex1</members>
-        <members>SlalomApexTest1</members>
-        <members>TAFApexClass</members>
-        <members>VoyaApex1</members>
-        <members>VoyaApexTest1</members>
+        <members>SBAApex2017</members>
+        <members>SuntrustApex1</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -678,7 +673,6 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
-        <members>Object_A__c</members>
         <members>Object_B__c</members>
         <members>Object_C__c</members>
         <members>Object_D__c</members>
@@ -712,6 +706,9 @@
         <members>CustomSetting_Deploy__c-en_US</members>
         <members>Deals__c-en_US</members>
         <members>Hire_Information__c-en_US</members>
+        <members>Object_B__c-en_US</members>
+        <members>Object_C__c-en_US</members>
+        <members>Object_D__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
@@ -807,7 +804,6 @@
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
-        <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
         <members>Object_C__c-Object C Layout</members>
         <members>Object_D__c-Object D Layout</members>
@@ -1031,6 +1027,9 @@
         <members>Deals__c</members>
         <members>Hire_Information__c</members>
         <members>Lead</members>
+        <members>Object_B__c</members>
+        <members>Object_C__c</members>
+        <members>Object_D__c</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>User</members>
