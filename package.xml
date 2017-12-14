@@ -5,6 +5,8 @@
         <members>ARDemo1</members>
         <members>AR_Deploycls</members>
         <members>AR_Deploycls_Test</members>
+        <members>AlignTechApex1</members>
+        <members>AlignTechApexTest1</members>
         <members>AutoRBT</members>
         <members>CoverageCls</members>
         <members>HomeAwayApex1</members>
