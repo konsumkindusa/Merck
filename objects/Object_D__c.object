@@ -52,12 +52,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Object A</label>
+    <label>Object D</label>
     <nameField>
-        <label>Object A Name</label>
+        <label>Object D Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Object&apos;s A</pluralLabel>
+    <pluralLabel>Object&apos;s D</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

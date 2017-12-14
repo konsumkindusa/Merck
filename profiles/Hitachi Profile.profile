@@ -67,16 +67,16 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>SBAApexClass1</apexClass>
+        <apexClass>MerckApexClass1</apexClass>
         <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>MerckApexTest1</apexClass>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>SBAApexClass2</apexClass>
         <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>SBAApexTest1</apexClass>
-        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>SBAApexTest2</apexClass>
@@ -1508,6 +1508,15 @@
         <layout>Object_A__c-Object A Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_B__c-Object B Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_C__c-Object C Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_D__c-Object D Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1733,6 +1742,33 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Object_A__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_B__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_C__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_D__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

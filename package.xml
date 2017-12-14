@@ -8,9 +8,7 @@
         <members>ConflictTest</members>
         <members>MerckApexClass1</members>
         <members>MerckApexTest1</members>
-        <members>SBAApexClass1</members>
         <members>SBAApexClass2</members>
-        <members>SBAApexTest1</members>
         <members>SBAApexTest2</members>
         <members>SlalomApex1</members>
         <members>SlalomApexTest1</members>
@@ -671,6 +669,8 @@
         <members>MacroInstruction</members>
         <members>Object_A__c</members>
         <members>Object_B__c</members>
+        <members>Object_C__c</members>
+        <members>Object_D__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -709,6 +709,9 @@
         <members>Customer_Survey__c-en_US</members>
         <members>JiraTest__c-en_US</members>
         <members>Object_A__c-en_US</members>
+        <members>Object_B__c-en_US</members>
+        <members>Object_C__c-en_US</members>
+        <members>Object_D__c-en_US</members>
         <members>SBA2__c-en_US</members>
         <members>SBATest2__c-en_US</members>
         <members>SBATest__c-en_US</members>
@@ -788,6 +791,8 @@
         <members>Macro-Macro Layout</members>
         <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
+        <members>Object_C__c-Object C Layout</members>
+        <members>Object_D__c-Object D Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -1025,6 +1030,9 @@
         <members>JiraTest__c</members>
         <members>Lead</members>
         <members>Object_A__c</members>
+        <members>Object_B__c</members>
+        <members>Object_C__c</members>
+        <members>Object_D__c</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>SBA2__c</members>

@@ -67,15 +67,15 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>SBAApexClass1</apexClass>
+        <apexClass>MerckApexClass1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>MerckApexTest1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>SBAApexClass2</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>SBAApexTest1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -1506,6 +1506,15 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Object_A__c-Object A Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_B__c-Object B Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_C__c-Object C Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object_D__c-Object D Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity %28Marketing%29 Layout</layout>
