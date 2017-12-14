@@ -6,6 +6,8 @@
         <members>AR_Deploycls</members>
         <members>AR_Deploycls_Test</members>
         <members>AutoRBT</members>
+        <members>AlignTechApex1</members>
+        <members>AlignTechApexTest1</members>
         <members>CATApex1</members>
         <members>CATApex2</members>
         <members>CATApex3</members>
