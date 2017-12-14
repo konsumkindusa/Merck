@@ -697,6 +697,7 @@
         <members>Object_B__c</members>
         <members>Object_C__c</members>
         <members>Object_D__c</members>
+        <members>Object_X__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -840,6 +841,7 @@
         <members>Object_B__c-Object B Layout</members>
         <members>Object_C__c-Object C Layout</members>
         <members>Object_D__c-Object D Layout</members>
+        <members>Object_X__c-Object X Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
