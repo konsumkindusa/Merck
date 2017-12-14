@@ -653,6 +653,7 @@
         <members>MacroInstruction</members>
         <members>Object_A__c</members>
         <members>Object_B__c</members>
+        <members>Object_C__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -688,6 +689,7 @@
         <members>AR_Custom_object2__c-en_US</members>
         <members>Customer_Survey__c-en_US</members>
         <members>JiraTest__c-en_US</members>
+        <members>Object_A__c-en_US</members>
         <members>Object_B__c-en_US</members>
         <members>Object_C__c-en_US</members>
         <members>SBA2__c-en_US</members>
@@ -766,6 +768,7 @@
         <members>Macro-Macro Layout</members>
         <members>Object_A__c-Object A Layout</members>
         <members>Object_B__c-Object B Layout</members>
+        <members>Object_C__c-Object C Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -994,6 +997,7 @@
         <members>Customer_Survey__c</members>
         <members>JiraTest__c</members>
         <members>Lead</members>
+        <members>Object_A__c</members>
         <members>Object_B__c</members>
         <members>Object_C__c</members>
         <members>Opportunity</members>
@@ -1059,13 +1063,5 @@
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
-    </types>
-    <types>
-        <members>AR_Demo1__c.WF1_Field_Update</members>
-        <name>WorkflowFieldUpdate</name>
-    </types>
-    <types>
-        <members>AR_Demo1__c.WF1</members>
-        <name>WorkflowRule</name>
     </types>
 </Package>

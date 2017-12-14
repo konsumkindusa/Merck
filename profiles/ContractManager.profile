@@ -1470,6 +1470,9 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_A__c-Object A Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_B__c-Object B Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
